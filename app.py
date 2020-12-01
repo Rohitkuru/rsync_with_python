@@ -8,7 +8,7 @@ import time
 import logging
 
 
-os.chdir("/home/local/EUC1AD001/rkurdukar/sync_dir")
+
 
 source = "src/"
 destination = "dst/"
